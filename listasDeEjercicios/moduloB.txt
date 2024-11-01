@@ -1,0 +1,109 @@
+MÓDULO B
+---------
+
+Semana 10
+
+CAPÍTULO 1: Representación de señales
+
+    Sección 1.1: Introducción
+    Sección 1.2: Señales de tiempo continuo 
+    Sección 1.3: Señales periódicas y aperiódicas
+    Sección 1.4: Señales de energía finita y de potencia media finita
+    Sección 1.5: Transformaciones de la variable independiente: desplazamiento, reflexión, escalonado.
+    Sección 1.6: Señales elementales: escalón, rampa, muestreo, impulso y su derivada
+
+Problemas: {1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.11, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.20, 1.22}
+
+---------
+
+Semana 11
+
+CAPÍTULO 2: Sistemas en tiempo continuo
+
+    Sección 2.1: Introducción
+    Sección 2.2: Clasificación de sistemas: lineales y no lineales, variantes e invariantes en el tiempo, con memoria y sin memoria, causales y no causales, invertibles, estables e inestables.
+    Sección 2.3: Sistemas lineales e invariantes con el tiempo: La convolución y su interpretación gráfica.
+    Sección 2.4: Propiedades de los sistemas lineales e invariantes (LTI): Memoria, causalidad, invertibilidad, estabilidad.
+
+Problemas: {2.1, 2.3}
+
+---------
+
+Semana 12
+
+CAPÍTULO 2: Sistemas en tiempo continuo
+
+    Sección 2.4: Propiedades de los sistemas lineales e invariantes (LTI): Memoria, causalidad, invertibilidad, estabilidad.
+    Sección 2.5: Sistemas descritos por ecuaciones diferenciales: EDL con coeficientes constantes. Componentes básicas de los sistemas. Diagramas de simulación para sistemas en tiempo continuo. Obtención de la respuesta al impulso.
+
+Problemas: {2.4, 2.9, 2.10, 2.11, 2.25}
+
+---------
+
+Semana 13
+
+CAPÍTULO 3: Series de Fourier
+
+    Sección 3.2: Representación ortogonal de señales.
+
+Problemas: {}
+
+---------
+
+Semana 14
+
+CAPÍTULO 3: Series de Fourier
+
+    Sección 3.3: Desarrollo en serie de Fourier mediante exponenciales complejas
+    Sección 3.4: Condiciones de Dirichlet
+    Sección 3.5.6: Teorema de Parseval
+
+Problemas: {3.12, 3.13, 3.14, 3.15, 3.43, 3.44}
+
+---------
+
+Semana 15
+
+CAPÍTULO 4: Transformada de Fourier
+
+    Sección 4.2.1: Desarrollo de Transformada de Fourier
+    Sección 4.2.2: Existencia de la Transformada de Fourier
+    Sección 4.2.3: Ejemplos
+    Sección 4.3: Propiedades
+
+Problemas: {4.1, 4.2, 4.4, 4.6, 4.7, 4.9}
+
+---------
+
+Semana 16
+
+CAPÍTULO 5: Transformada de Laplace
+
+    Sección 5.5.1: Transformada bilateral de Laplace
+    Sección 5.5.2: Transformada unilateral de Laplace
+    Sección 5.5.3: Propiedades
+    Sección 5.5.10: Teorema del Valor Inicial
+    Sección 5.5.11: Teorema de Valor Final
+    Sección 5.6: Transformada Inversa de Laplace
+    Sección 5.7: Diagramas de simulación
+
+Problemas: {5.2, 5.10, 5.11, 5.12, 5.13, 5.14, 5.15}
+
+---------
+
+Semana 17
+
+CAPÍTULO 5: Transformada de Laplace
+
+    Sección 5.8: Aplicaciones de la Transformada de Laplace
+    Sección 5.8.1: Solución de ecuaciones diferenciales
+    Sección 5.8.2: Aplicación al análisis de circuitos RLC
+
+Problemas: {5.14, 5.15, 5.16, 5.17, 5.18, 5.20, 5.21}
+
+---------
+
+Capítulo 4. Analisis de Fourier para Señales y Sistemas de Tiempo Continuo
+
+    4.12.1 Sistemas de 1° orden
+    4.12.2  Sistemas de 2°orden

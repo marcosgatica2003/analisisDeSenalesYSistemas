@@ -1,0 +1,63 @@
+MÓDULO C
+---------
+
+Semana 20
+
+Capítulo 4. Transformada de  Fourier
+
+    4.4.3  El Teorema del muestreo
+
+---------
+
+Semana 21
+
+CAPÍTULO 6: Sistemas en tiempo discreto
+
+    Sección 6.1.1: Clasificación de Señales en tiempo discreto
+    Sección 6.1.2: Transformación de la variable independiente
+    Sección 6.2: Señales elementales en tiempo discreto
+
+Problemas: {6.1, 6.2, 6.3, 6.4, 6.7}
+
+---------
+
+Semana 22
+
+CAPÍTULO 6: Sistemas en tiempo discreto
+
+    Sección 6.3: Sistemas en tiempo discreto
+
+Problemas: {6.8, 6.9, 6.10, 6.12}
+
+---------
+
+Semana 23
+
+CAPÍTULO 6: Sistemas en tiempo discreto
+
+    Sección 6.5: Representación de sistemas en tiempo discreto
+        Sección 6.5.1: Solución homogénea de la ecuación en diferencias
+        Sección 6.5.2: Solución particular
+    Sección 6.6: Diagramas de simulación para sistemas de tiempo discreto
+
+Problemas: {6.17a, b, 6.18, 6.19}
+
+---------
+
+Semana 24
+
+CAPÍTULO 8: La Transformada Z
+
+    Sección 8.1: Introducción
+    Sección 8.2: La Transformada Z
+    Sección 8.3: Convergencia de la Transformada Z
+    Sección 8.4: Propiedades de la Transformada Z
+    Sección 8.5: La Transformada Zeta inversa
+    Sección 8.6: Transformada Z de Sistemas LTI
+    Sección 8.8: Relación entre Transformada de Laplace y Transformada Z
+
+Problemas: {8.1, 8.2, 8.3, 8.5, 8.7}
+
+---------
+
+
