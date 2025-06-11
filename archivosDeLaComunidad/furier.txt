@@ -1,0 +1,6 @@
+Alguno entendió que mierda hay que hacer en la Transformada de Fourier?
+Me gusta ·  · Seguir publicación · 18 de octubre a la(s) 12:01
+Lo han visto 47 personas
+
+Diego Hernando planteas la sumatoria, sacas una serie geometrica y de ahi expandis las exponenciales como cos y sen hasta llegar una expresion a+jb asi calculas modulo y argumento
+18 de octubre a la(s) 12:03 · Me gusta · 2
